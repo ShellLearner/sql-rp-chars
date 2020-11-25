@@ -1,5 +1,7 @@
 # Database (don't want that in there)
 database/*
+#Uhh.. this apparently
+.DS_Store
 
 # Everything else is default Node ignores from Github
 
