@@ -1,4 +1,4 @@
-# rose-bot
-A discord bot in the works: who knows what it can be
+# RP-Chars
+It stores all of your characters for use in roleplaying, as well as proxies them.
 # Usage
 prefix is {, figure out the rest
