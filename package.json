@@ -1,0 +1,26 @@
+{
+  "name": "rose-bot",
+  "version": "1.0.0",
+  "description": "A discord bot that does what you ask - simple and easy.",
+  "main": "index.js",
+  "dependencies": {
+    "better-sqlite3": "^7.1.1",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ShellLearner/rose-bot.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ShellLearner/rose-bot/issues"
+  },
+  "homepage": "https://github.com/ShellLearner/rose-bot#readme"
+}
