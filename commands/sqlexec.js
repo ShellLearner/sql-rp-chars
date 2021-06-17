@@ -1,5 +1,4 @@
 module.exports = {
-	name: "sqlexec",
 	help: "Execute an arbitrary SQL command.",
 	usage: "sqlexec <SQL query>",
 	run(client, message, args) {

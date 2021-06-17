@@ -1,7 +1,6 @@
 const { MessageEmbed } = require("discord.js");
 
 module.exports = {
-	name: 'help',
 	help: 'It shows help pages. Pretty simple.',
 	usage: 'help [command name]',
 	run(client, message, args){

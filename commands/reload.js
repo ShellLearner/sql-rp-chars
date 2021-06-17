@@ -1,5 +1,4 @@
 module.exports = {
-	name: 'reload',
 	help: 'It reloads a command.',
 	run(client, message, args){
 		let item = args[0]
